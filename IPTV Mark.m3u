@@ -1,0 +1,546 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="entertaining" tvg-name="LNK" tvg-logo="LNK.png",LNK
+http://192.168.8.133:6878/ace/getstream?id=74e7f37525aa99fd42e5e04c3f7187c59bf31c9e&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="LRT" tvg-logo="LRT.png",LRT
+http://192.168.8.133:6878/ace/getstream?id=8d59aef51c7637e4bf1f46ec4bb56e37888d3e68&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="TV3" tvg-logo="TV3.png",TV3
+http://192.168.8.133:6878/ace/getstream?id=9f943fbbe8bc4802a8999d048e7fb99a9e2bbe5c&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="BTV" tvg-logo="BTV.png",BTV
+http://192.168.8.133:6878/ace/getstream?id=ecd88ef7945c8532a3136741aa02589fa72f598f&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Sony_Sci_Fi" tvg-logo="Sony Sci Fi.png",Sony Sci Fi
+http://192.168.8.133:6878/ace/getstream?id=89b9742c5623772f78f70a073059bc96083e1aca&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Sony_Channel" tvg-logo="Sony Channel.png",Sony Channel
+http://192.168.8.133:6878/ace/getstream?id=8789f606f62a64354d6612dabeef0863d3e2bda5&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киномикс" tvg-logo="Киномикс.png",Киномикс
+http://192.168.8.133:6878/ace/getstream?id=bfa49750d8153978629b6dcffcd13d0a59cb35a0&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопоказ" tvg-logo="Кинопоказ.png",Кинопоказ
+http://192.168.8.133:6878/ace/getstream?id=5fa0a903f6d4e10adf1603a050e1f77eb3a2ad09&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопоказ_HD1" tvg-logo="Кинопоказ HD1.png",Кинопоказ HD1
+http://192.168.8.133:6878/ace/getstream?id=6b2c7666f66555204c33ce5e523b8e56fe00d743&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопоказ_HD2" tvg-logo="Кинопоказ HD2.png",Кинопоказ HD2
+http://192.168.8.133:6878/ace/getstream?id=da116afe3adb4831f53e87d118b1f8c650b719d8&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопремьера_HD" tvg-logo="Кинопремьера HD.png",Кинопремьера HD
+http://192.168.8.133:6878/ace/getstream?id=be5599ac4112e2d0a4765f6e05a42aa683d6dd31&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киносвидание" tvg-logo="Киносвидание.png",Киносвидание
+http://192.168.8.133:6878/ace/getstream?id=10e5781bbfac4fed4059c2084cb4bef3b4c338a5&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киносемья" tvg-logo="Киносемья.png",Киносемья
+http://192.168.8.133:6878/ace/getstream?id=8e41521482e2daf70b032dea8348abc06f58192a&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинохит" tvg-logo="Кинохит.png",Кинохит
+http://192.168.8.133:6878/ace/getstream?id=17a7bdf381d98ea110654d230a22b08136cc6d7b&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Мужское_кино" tvg-logo="Мужское кино.png",Мужское кино
+http://192.168.8.133:6878/ace/getstream?id=6976c8024012ae13de8cd5003d463983f398a9df&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="НСТ_(Страшное)" tvg-logo="НСТ (Страшное).png",НСТ (Страшное)
+http://192.168.8.133:6878/ace/getstream?id=3bb375057c45b97e7f5eff59e547fcc3d01f5fe1&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наш_Детектив_HD" tvg-logo="Наш Детектив HD.png",Наш Детектив HD
+http://192.168.8.133:6878/ace/getstream?id=e106287c1fffac59668f0193e1cdb0e0d86037f7&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наш_Кинороман_HD" tvg-logo="Наш Кинороман HD.png",Наш Кинороман HD
+http://192.168.8.133:6878/ace/getstream?id=1a52808675389dcfc4474d0bb268c4a6ce927ed3&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наше_новое_кино" tvg-logo="Наше новое кино.png",Наше новое кино
+http://192.168.8.133:6878/ace/getstream?id=b02585279dc4d5b48de356941874a69aa570251a&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Остросюжетное_HD" tvg-logo="Остросюжетное HD.png",Остросюжетное HD
+http://192.168.8.133:6878/ace/getstream?id=84b27b33a6e7b057904e667684136bc108371f6c&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Родное_кино" tvg-logo="Родное кино.png",Родное кино
+http://192.168.8.133:6878/ace/getstream?id=d0ca319ff96f596771f3f8ef887528eea95120de&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Amedia_1" tvg-logo="Amedia 1.png",Amedia 1
+http://192.168.8.133:6878/ace/getstream?id=32806720cc363a53ac0ae2791a005a02cd252ee8&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Amedia_Hit_HD" tvg-logo="Amedia Hit HD.png",Amedia Hit HD
+http://192.168.8.133:6878/ace/getstream?id=0bfc429fafe7563f70ec4e1b69541de0aa738e1e&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Amedia_Premium" tvg-logo="Amedia Premium.png",Amedia Premium
+http://192.168.8.133:6878/ace/getstream?id=8418cfd5a4af2e384f02040f5950211bd47a00a0&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Cinema" tvg-logo="Cinema.png",Cinema
+http://192.168.8.133:6878/ace/getstream?id=37b8b079403db486226e894ce0a64cb26b81fa08&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Иллюзион+" tvg-logo="Иллюзион+.png",Иллюзион+
+http://192.168.8.133:6878/ace/getstream?id=260f9312df90e58d081fb963015e327064bd4831&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Fox_Life_Россия" tvg-logo="Fox Life Россия.png",Fox Life Россия
+http://192.168.8.133:6878/ace/getstream?id=e1b682595ae741b97327f2319742c0c29db711b2&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Fox_Россия" tvg-logo="Fox Россия.png",Fox Россия
+http://192.168.8.133:6878/ace/getstream?id=d19479886c008e532ce21d31680cc5f76ba554c8&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Paramount_Comedy_Россия" tvg-logo="Paramount Comedy Россия.png",Paramount Comedy Россия
+http://192.168.8.133:6878/ace/getstream?id=1b4696e85c29c86ecaf1abbcf423c136039bf6ee&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Paramount_Сhannel_HD" tvg-logo="Paramount Сhannel HD.png",Paramount Сhannel HD
+http://192.168.8.133:6878/ace/getstream?id=4c1abbb5396ff7373ba49b5280cd70db50c39147&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="TV1000_Action_East" tvg-logo="TV1000 Action East.png",TV1000 Action East
+http://192.168.8.133:6878/ace/getstream?id=bdcd46d5b6b08a85fbcb0146a707f339a897085c&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="TV1000_East" tvg-logo="TV1000 East.png",TV1000 East
+http://192.168.8.133:6878/ace/getstream?id=1c6ef905c025dd41d420ac7ac41f46c9b9145600&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ViP_Comedy_HD" tvg-logo="ViP Comedy HD.png",ViP Comedy HD
+http://192.168.8.133:6878/ace/getstream?id=3e9dfa075eaac432d7fd95ea21aa05db4c559a65&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ViP_Megahit_HD" tvg-logo="ViP Megahit HD.png",ViP Megahit HD
+http://192.168.8.133:6878/ace/getstream?id=f5c5472b4c33da87d8b185cb62566c7012b68c5a&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ViP_Premiere_HD" tvg-logo="ViP Premiere HD.png",ViP Premiere HD
+http://192.168.8.133:6878/ace/getstream?id=844466e115fe5dc0a9dfe5abc59ab14ccf1dd547&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Дом_кино" tvg-logo="Дом кино.png",Дом кино
+http://192.168.8.133:6878/ace/getstream?id=76dba6f9ac67300ef94b693af84f193a5e39aa29&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Дом_кино_Премиум_HD" tvg-logo="Дом кино Премиум HD.png",Дом кино Премиум HD
+http://192.168.8.133:6878/ace/getstream?id=863878744814575d1686df2d2a6250d5eda64a22&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Индийское_кино" tvg-logo="Индийское кино.png",Индийское кино
+http://192.168.8.133:6878/ace/getstream?id=ef89b27a6553cae3d26b1c3886381cafaf7273ed&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="КиноПремиум_HD" tvg-logo="КиноПремиум HD.png",КиноПремиум HD
+http://192.168.8.133:6878/ace/getstream?id=6a45f49f6cb3f271cf28d94bd0a6c61897134c61&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="КиноТВ_HD" tvg-logo="КиноТВ HD.png",КиноТВ HD
+http://192.168.8.133:6878/ace/getstream?id=69cae515f1b88f3695e09a55988295b2fe9b9e61&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русская_комедия" tvg-logo="Русская комедия.png",Русская комедия
+http://192.168.8.133:6878/ace/getstream?id=ac3c74ae7da904c1a5c6247f334f0dfbd089fcd0&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_бестселлер" tvg-logo="Русский бестселлер.png",Русский бестселлер
+http://192.168.8.133:6878/ace/getstream?id=9a4b8a04485d6359816f5e8cd448d2f38e774701&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_детектив" tvg-logo="Русский детектив.png",Русский детектив
+http://192.168.8.133:6878/ace/getstream?id=99d2a9e0011778100e05eca8b0116375b3062e7f&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_иллюзион" tvg-logo="Русский иллюзион.png",Русский иллюзион
+http://192.168.8.133:6878/ace/getstream?id=f4ecf0af2c5f6e72024de7d7703a919c9ac7af87&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ТВ_XXI" tvg-logo="ТВ XXI.png",ТВ XXI
+http://192.168.8.133:6878/ace/getstream?id=191e2dd8e5017cd78c29bb605603a92c14c20588&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Дом_кино" tvg-logo="Дом кино.png",Дом кино
+http://192.168.8.133:6878/ace/getstream?id=76dba6f9ac67300ef94b693af84f193a5e39aa29&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Дом_кино_Премиум_HD" tvg-logo="Дом кино Премиум HD.png",Дом кино Премиум HD
+http://192.168.8.133:6878/ace/getstream?id=863878744814575d1686df2d2a6250d5eda64a22&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Иллюзион_+" tvg-logo="Иллюзион +.png",Иллюзион +
+http://192.168.8.133:6878/ace/getstream?id=428f0981a773ba4ef4293e0fa2ecc6ccdfa80caf&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Индийское_кино" tvg-logo="Индийское кино.png",Индийское кино
+http://192.168.8.133:6878/ace/getstream?id=ef89b27a6553cae3d26b1c3886381cafaf7273ed&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киномикс" tvg-logo="Киномикс.png",Киномикс
+http://192.168.8.133:6878/ace/getstream?id=bfa49750d8153978629b6dcffcd13d0a59cb35a0&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопоказ_HD1" tvg-logo="Кинопоказ HD1.png",Кинопоказ HD1
+http://192.168.8.133:6878/ace/getstream?id=6b2c7666f66555204c33ce5e523b8e56fe00d743&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопоказ_HD2" tvg-logo="Кинопоказ HD2.png",Кинопоказ HD2
+http://192.168.8.133:6878/ace/getstream?id=da116afe3adb4831f53e87d118b1f8c650b719d8&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопремьера_HD" tvg-logo="Кинопремьера HD.png",Кинопремьера HD
+http://192.168.8.133:6878/ace/getstream?id=be5599ac4112e2d0a4765f6e05a42aa683d6dd31&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киносвидание" tvg-logo="Киносвидание.png",Киносвидание
+http://192.168.8.133:6878/ace/getstream?id=10e5781bbfac4fed4059c2084cb4bef3b4c338a5&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киносемья" tvg-logo="Киносемья.png",Киносемья
+http://192.168.8.133:6878/ace/getstream?id=8e41521482e2daf70b032dea8348abc06f58192a&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинохит" tvg-logo="Кинохит.png",Кинохит
+http://192.168.8.133:6878/ace/getstream?id=17a7bdf381d98ea110654d230a22b08136cc6d7b&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Мужское_кино" tvg-logo="Мужское кино.png",Мужское кино
+http://192.168.8.133:6878/ace/getstream?id=6976c8024012ae13de8cd5003d463983f398a9df&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="НСТ_(Страшное)" tvg-logo="НСТ (Страшное).png",НСТ (Страшное)
+http://192.168.8.133:6878/ace/getstream?id=3bb375057c45b97e7f5eff59e547fcc3d01f5fe1&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наш_Детектив_HD" tvg-logo="Наш Детектив HD.png",Наш Детектив HD
+http://192.168.8.133:6878/ace/getstream?id=e106287c1fffac59668f0193e1cdb0e0d86037f7&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наш_Кинороман_HD" tvg-logo="Наш Кинороман HD.png",Наш Кинороман HD
+http://192.168.8.133:6878/ace/getstream?id=1a52808675389dcfc4474d0bb268c4a6ce927ed3&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Остросюжетное_HD" tvg-logo="Остросюжетное HD.png",Остросюжетное HD
+http://192.168.8.133:6878/ace/getstream?id=84b27b33a6e7b057904e667684136bc108371f6c&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Пятый_канал_(+2)" tvg-logo="Пятый канал.png",Пятый канал (+2)
+http://192.168.8.133:6878/ace/getstream?id=3caea2303ea0f59ce2c966b7597475cbf05be877&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Родное_кино" tvg-logo="Родное кино.png",Родное кино
+http://192.168.8.133:6878/ace/getstream?id=d0ca319ff96f596771f3f8ef887528eea95120de&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русская_комедия" tvg-logo="Русская комедия.png",Русская комедия
+http://192.168.8.133:6878/ace/getstream?id=ac3c74ae7da904c1a5c6247f334f0dfbd089fcd0&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_Иллюзион" tvg-logo="Русский Иллюзион.png",Русский Иллюзион
+http://192.168.8.133:6878/ace/getstream?id=a0284a8fd173d079eefbae929ccd3a20083f8aa9&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_бестселлер" tvg-logo="Русский бестселлер.png",Русский бестселлер
+http://192.168.8.133:6878/ace/getstream?id=9a4b8a04485d6359816f5e8cd448d2f38e774701&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_детектив" tvg-logo="Русский детектив.png",Русский детектив
+http://192.168.8.133:6878/ace/getstream?id=99d2a9e0011778100e05eca8b0116375b3062e7f&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_иллюзион" tvg-logo="Русский иллюзион.png",Русский иллюзион
+http://192.168.8.133:6878/ace/getstream?id=f4ecf0af2c5f6e72024de7d7703a919c9ac7af87&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Север_ТВ" tvg-logo="Север ТВ.png",Север ТВ
+http://192.168.8.133:6878/ace/getstream?id=9a12ec6b9508b1e97f5e825415b574a931c27d96&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Советское_кино" tvg-logo="Советское кино.png",Советское кино
+http://192.168.8.133:6878/ace/getstream?id=651e4f6fe5c6bcb787e7b489b9dd163a8aaf49a7&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Союз" tvg-logo="Союз.png",Союз
+http://192.168.8.133:6878/ace/getstream?id=9bdcedd67213265fc3c540628d9ee82638fcf33b&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ТВ_XXI" tvg-logo="ТВ XXI.png",ТВ XXI
+http://192.168.8.133:6878/ace/getstream?id=191e2dd8e5017cd78c29bb605603a92c14c20588&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ТВЦ_(Международный)" tvg-logo="ТВЦ (Международный).png",ТВЦ (Международный)
+http://192.168.8.133:6878/ace/getstream?id=c88f1354dc6221baafbf1ef3cd4c3a8d061b19a9&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="MOVIE_STAR_BG_(alfabass-tv)" tvg-logo="MOVIE STAR BG (alfabass-tv).png",MOVIE STAR BG (alfabass-tv)
+http://192.168.8.133:6878/ace/getstream?id=8722eb9ea10fb9182af934afa7be6c7680ac1cfb&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Paramount_Comedy_Россия" tvg-logo="Paramount Comedy Россия.png",Paramount Comedy Россия
+http://192.168.8.133:6878/ace/getstream?id=1b4696e85c29c86ecaf1abbcf423c136039bf6ee&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Paramount_Сhannel_HD" tvg-logo="Paramount Сhannel HD.png",Paramount Сhannel HD
+http://192.168.8.133:6878/ace/getstream?id=4c1abbb5396ff7373ba49b5280cd70db50c39147&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Sony_Channel" tvg-logo="Sony Channel.png",Sony Channel
+http://192.168.8.133:6878/ace/getstream?id=8789f606f62a64354d6612dabeef0863d3e2bda5&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="TV1000_Action_East" tvg-logo="TV1000 Action East.png",TV1000 Action East
+http://192.168.8.133:6878/ace/getstream?id=bdcd46d5b6b08a85fbcb0146a707f339a897085c&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ViP_Comedy_HD" tvg-logo="ViP Comedy HD.png",ViP Comedy HD
+http://192.168.8.133:6878/ace/getstream?id=3e9dfa075eaac432d7fd95ea21aa05db4c559a65&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ViP_Megahit" tvg-logo="ViP Megahit.png",ViP Megahit
+http://192.168.8.133:6878/ace/getstream?id=53edeba4950fd9a07575b72c15aa551f44fbd033&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ViP_Megahit_HD" tvg-logo="ViP Megahit HD.png",ViP Megahit HD
+http://192.168.8.133:6878/ace/getstream?id=f5c5472b4c33da87d8b185cb62566c7012b68c5a&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ViP_Premiere_HD" tvg-logo="ViP Premiere HD.png",ViP Premiere HD
+http://192.168.8.133:6878/ace/getstream?id=844466e115fe5dc0a9dfe5abc59ab14ccf1dd547&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="24Техно" tvg-logo="24Техно.png",24Техно
+http://192.168.8.133:6878/ace/getstream?id=59d6a51f5bdcdf2f8d861e0bf14856172a7fcbdc&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Animal_Planet_HD" tvg-logo="Animal Planet HD.png",Animal Planet HD
+http://192.168.8.133:6878/ace/getstream?id=815daf9ba05ea77cf0fc67771359548eb08a41cd&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="DTX" tvg-logo="DTX.png",DTX
+http://192.168.8.133:6878/ace/getstream?id=42118d3d5389d7bed5174d72b5349125cd1ee85b&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Da_Vinci_Learning" tvg-logo="Da Vinci Learning.png",Da Vinci Learning
+http://192.168.8.133:6878/ace/getstream?id=2541bbfe690e9c9e6ac3b012d7e720aebcf0cedb&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Discovery_Science_HD" tvg-logo="Discovery Science HD.png",Discovery Science HD
+http://192.168.8.133:6878/ace/getstream?id=4a735af201823ef27818d11f44c64d04446d97b6&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Discovery_Россия_HD" tvg-logo="Discovery Россия HD.png",Discovery Россия HD
+http://192.168.8.133:6878/ace/getstream?id=f9d10e6fa938417babd0311b5558762c5427cd24&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="HD-Life" tvg-logo="HD-Life.png",HD-Life
+http://192.168.8.133:6878/ace/getstream?id=468433bee3cb168902e2515557b91563491923c3&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="History_Россия_HD" tvg-logo="History Россия HD.png",History Россия HD
+http://192.168.8.133:6878/ace/getstream?id=14283a2a7c935c6b7505c073476ee2591277c9a1&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="ID_Xtra_Россия" tvg-logo="ID Xtra Россия.png",ID Xtra Россия
+http://192.168.8.133:6878/ace/getstream?id=20d9966df3f07d76ea1a88bc048f3ff6a5f37c19&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Nat_Geo_Wild_HD" tvg-logo="Nat Geo Wild HD.png",Nat Geo Wild HD
+http://192.168.8.133:6878/ace/getstream?id=06cb0cbbada44d44ab65f113198a760269381e06&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="National_Geographic_HD" tvg-logo="National Geographic HD.png",National Geographic HD
+http://192.168.8.133:6878/ace/getstream?id=05f6a0102e229d75035e985c0b6567fe21f390b2&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Outdoor_channel_HD" tvg-logo="Outdoor channel HD.png",Outdoor channel HD
+http://192.168.8.133:6878/ace/getstream?id=277dc43008da557b2c62e57dd768fd8d91e541b3&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="RT_Д_HD" tvg-logo="RT Д HD.png",RT Д HD
+http://192.168.8.133:6878/ace/getstream?id=541234fd63cb992905d78a1bef42cc93da805b62&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Russian_Travel_Guide" tvg-logo="Russian Travel Guide.png",Russian Travel Guide
+http://192.168.8.133:6878/ace/getstream?id=6e887659b8543a85780a14e136aba1dbf4acae47&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="TLC_Россия" tvg-logo="TLC Россия.png",TLC Россия
+http://192.168.8.133:6878/ace/getstream?id=d288e303032c9f4fa27d56d2ebe4a7ef40b13d5f&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Travel_channel_HD" tvg-logo="Travel channel HD.png",Travel channel HD
+http://192.168.8.133:6878/ace/getstream?id=c5273075b1d933b249f3c028c9a493388ed17386&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Viasat_History" tvg-logo="Viasat History.png",Viasat History
+http://192.168.8.133:6878/ace/getstream?id=7774d8277bcc511524aa0131b3064a69d4a3fbed&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Viasat_Nature/History_HD" tvg-logo="Viasat Nature/History HD.png",Viasat Nature/History HD
+http://192.168.8.133:6878/ace/getstream?id=d053183905f49e78b26df9da22c3c5e305ce9b8a&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Авто_Плюс" tvg-logo="Авто Плюс.png",Авто Плюс
+http://192.168.8.133:6878/ace/getstream?id=e73c851d2c986049b324d6b5c3c6c9da64ad4b65&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Авто24" tvg-logo="Авто24.png",Авто24
+http://192.168.8.133:6878/ace/getstream?id=0773996c860084df683b8372089f82fa0018c5f4&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Доктор" tvg-logo="Доктор.png",Доктор
+http://192.168.8.133:6878/ace/getstream?id=435b828d0f7e0941660f85109fae9ec44c622493&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Живая_планета" tvg-logo="Живая планета.png",Живая планета
+http://192.168.8.133:6878/ace/getstream?id=5a87114ca438e68e8e76545209ef9f36c2ce8964&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Живая_природа_HD" tvg-logo="Живая природа HD.png",Живая природа HD
+http://192.168.8.133:6878/ace/getstream?id=316d1b7040316331048af158fccd7ec6fba584cf&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="История" tvg-logo="История.png",История
+http://192.168.8.133:6878/ace/getstream?id=35c7787922a9199a5b2553fd287bfae88d3c682a&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Кухня_ТВ" tvg-logo="Кухня ТВ.png",Кухня ТВ
+http://192.168.8.133:6878/ace/getstream?id=ca196b06b1056cdd4ebe1f19fd95b79090ade4ae&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Моя_планета" tvg-logo="Моя планета.png",Моя планета
+http://192.168.8.133:6878/ace/getstream?id=d84b090ae60597b4f4638b8e40babeb1af5d81eb&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Наука_2.0" tvg-logo="Наука 2.0.png",Наука 2.0
+http://192.168.8.133:6878/ace/getstream?id=f332e7aa1e8a3a0d6c2f8a459fbdedc94f95423b&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Оружие" tvg-logo="Оружие.png",Оружие
+http://192.168.8.133:6878/ace/getstream?id=4de056047c91fd99323656a319cc020bed898595&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Дикая_охота_HD" tvg-logo="Дикая охота HD.png",Дикая охота HD
+http://192.168.8.133:6878/ace/getstream?id=0d7b0af7c0e6bfe08dd0a475a9bb00226bda32fe&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Охота_и_рыбалка" tvg-logo="Охота и рыбалка.png",Охота и рыбалка
+http://192.168.8.133:6878/ace/getstream?id=e10d90875c6a8f97e9d2477520dfc0f18f777c80&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Страна" tvg-logo="Страна.png",Страна
+http://192.168.8.133:6878/ace/getstream?id=1a8efd5f88b8073e64b008e790fb04d032aae0b3&.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Телепутешествия_HD" tvg-logo="Телепутешествия HD.png",Телепутешествия HD
+http://192.168.8.133:6878/ace/getstream?id=9ef190f19a4d6599ae91719be2dfadc53a6eef59&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="1+1" tvg-logo="1+1.png",1+1
+http://192.168.8.133:6878/ace/getstream?id=afeeb4c9336716ed180d0056e71bef27284c0116&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="2х2" tvg-logo="2х2.png",2х2
+http://192.168.8.133:6878/ace/getstream?id=e422175c195dfcaeeab3ec8b7403b9bd7a46a880&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="5_канал_(Россия)" tvg-logo="5 канал (Россия).png",5 канал (Россия)
+http://192.168.8.133:6878/ace/getstream?id=1ce26ecb6dcca16fc3756aa4add89ff1dfd5fe08&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Fashion_TV" tvg-logo="Fashion TV.png",Fashion TV
+http://192.168.8.133:6878/ace/getstream?id=0bb548d3e2e3bcdec3a6c560ac9c2c6a0eb26406&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="БелРос" tvg-logo="БелРос.png",БелРос
+http://192.168.8.133:6878/ace/getstream?id=15c4461e5ac2c7e20192c170393e66d151e08ba3&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Вопросы_и_ответы" tvg-logo="Вопросы и ответы.png",Вопросы и ответы
+http://192.168.8.133:6878/ace/getstream?id=1c15c1c80cf85aa41db822813a8607f49247684a&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Время" tvg-logo="Время.png",Время
+http://192.168.8.133:6878/ace/getstream?id=448976660278e2e3ce3979320a26f943b820e54a&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Домашний" tvg-logo="Домашний.png",Домашний
+http://192.168.8.133:6878/ace/getstream?id=b717267a2f1e407848534f39ae7d187669e3e748&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Звезда" tvg-logo="Звезда.png",Звезда
+http://192.168.8.133:6878/ace/getstream?id=58af396101a2c9848267cacb05f37221f33584ee&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Интер" tvg-logo="Интер.png",Интер
+http://192.168.8.133:6878/ace/getstream?id=3912d8223b6f3038e9488f7415e0b8bedd1088ca&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="МирТВ" tvg-logo="МирТВ.png",МирТВ
+http://192.168.8.133:6878/ace/getstream?id=a92d8b24fdba65886b1177f1775c0548a8070aa6&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="НТВ_(+2)" tvg-logo="НТВ.png",НТВ (+2)
+http://192.168.8.133:6878/ace/getstream?id=7b9b14a22cb0792da756f6f7d13f9cad71e7d05c&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="НТВ_HD" tvg-logo="НТВ HD.png",НТВ HD
+http://192.168.8.133:6878/ace/getstream?id=879b42e44f9fa7a868758bded64eacdcc7bf11a0&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="НТВ_Мир" tvg-logo="НТВ Мир.png",НТВ Мир
+http://192.168.8.133:6878/ace/getstream?id=c1bed36330081a131ae0c38482bdbb106f5e29f5&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Ностальгия" tvg-logo="Ностальгия.png",Ностальгия
+http://192.168.8.133:6878/ace/getstream?id=2f9396451bd715a234be52d092849d408754d307&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ОТР" tvg-logo="ОТР.png",ОТР
+http://192.168.8.133:6878/ace/getstream?id=36d3858d3426edfb564e3526868ca9a2c1558821&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Первый_канал_(+2)" tvg-logo="Первый канал.png",Первый канал (+2)
+http://192.168.8.133:6878/ace/getstream?id=743244c3a526aa5b68d1f7ef9c8a2f36a1d505ec&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Первый_канал_HD" tvg-logo="Первый канал HD.png",Первый канал HD
+http://192.168.8.133:6878/ace/getstream?id=ee3ce944fa3a5f49428240d363ffc368454c6b72&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Первый_канал_HD_(+4)" tvg-logo="Первый канал HD.png",Первый канал HD (+4)
+http://192.168.8.133:6878/ace/getstream?id=c6eb4bbbafb780ed39136674f167e6d47a90c569&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Пятница" tvg-logo="Пятница.png",Пятница
+http://192.168.8.133:6878/ace/getstream?id=34c41ff85e605d67d3cce2fb6bbb0e5bb2c40675&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="РЕН_ТВ" tvg-logo="РЕН ТВ.png",РЕН ТВ
+http://192.168.8.133:6878/ace/getstream?id=60031cff6b9437174deabed3b1af588c8e44367e&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="РТР-Планета" tvg-logo="РТР-Планета.png",РТР-Планета
+http://192.168.8.133:6878/ace/getstream?id=c6311fa080a9d19b7785d9ba49d7728487b1317b&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Россия_1_(+2)" tvg-logo="Россия 1.png",Россия 1 (+2)
+http://192.168.8.133:6878/ace/getstream?id=67f1e463b6511718d2e3cb1e32f18755ce5a15e1&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Россия_HD" tvg-logo="Россия HD.png",Россия HD
+http://192.168.8.133:6878/ace/getstream?id=3f2d29b82d9216cf3ae86c7826e3197ad699af62&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="СТБ" tvg-logo="СТБ.png",СТБ
+http://192.168.8.133:6878/ace/getstream?id=0d44f8dc1f9d9be406300ff76d5342e88ab48634&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="СТС" tvg-logo="СТС.png",СТС
+http://192.168.8.133:6878/ace/getstream?id=e2fe666bbec21148dc37c34985cbf81837c1f93e&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="СТС_Love" tvg-logo="СТС Love.png",СТС Love
+http://192.168.8.133:6878/ace/getstream?id=38e076293a21e7f43904ab85e5dc3509783af111&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Сарафан" tvg-logo="Сарафан.png",Сарафан
+http://192.168.8.133:6878/ace/getstream?id=7244af49ab2ca92421d3b44cd7eb1e455af26353&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ТВ_Центр" tvg-logo="ТВ Центр.png",ТВ Центр
+http://192.168.8.133:6878/ace/getstream?id=b4fcbcbae7f5d96e5ab4ce3cf033ab5a61daec71&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ТВ3_Россия" tvg-logo="ТВ3 Россия.png",ТВ3 Россия
+http://192.168.8.133:6878/ace/getstream?id=af3465712f8407d2944cb0e8d5891dc36bcf4536&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ТНТ_(+2)" tvg-logo="ТНТ.png",ТНТ (+2)
+http://192.168.8.133:6878/ace/getstream?id=64217df1fcbf68357cd64a15f5393b307e73bc2e&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ТНТ_HD" tvg-logo="ТНТ HD.png",ТНТ HD
+http://192.168.8.133:6878/ace/getstream?id=9477d75fd3fe2be6df2ba3fcb4f98009339da3d6&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ТНТ4" tvg-logo="ТНТ4.png",ТНТ4
+http://192.168.8.133:6878/ace/getstream?id=d127c8ae736ff66271f69a35ab91c361ed5256c8&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Хабар" tvg-logo="Хабар.png",Хабар
+http://192.168.8.133:6878/ace/getstream?id=6763bf470c513d69a672c01e04f5f1bf140785ba&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Че" tvg-logo="Че.png",Че
+http://192.168.8.133:6878/ace/getstream?id=e17d178435a9dbe1636910bf71da391ce712a979&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Ю" tvg-logo="Ю.png",Ю
+http://192.168.8.133:6878/ace/getstream?id=05319408fe815362c6a60aae8a5aed2312512a8e&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="Universmotri.ru" tvg-logo="Universmotri.ru.png",Universmotri.ru
+http://192.168.8.133:6878/ace/getstream?id=52710f017f42f9f7e76a5b27f915cf9d0e1b6f8c&.mp4
+#EXTINF:-1 group-title="informational" tvg-name="BBC_World_News_Europe" tvg-logo="BBC World News Europe.png",BBC World News Europe
+http://192.168.8.133:6878/ace/getstream?id=c092caf6e38bd661f5f9ca1329ec0be1284cb5e5&.mp4
+#EXTINF:-1 group-title="informational" tvg-name="CNN" tvg-logo="CNN.png",CNN
+http://192.168.8.133:6878/ace/getstream?id=a94663619c928aacf01fedbf2e10c2de1ae758b2&.mp4
+#EXTINF:-1 group-title="informational" tvg-name="EuroNews" tvg-logo="EuroNews.png",EuroNews
+http://192.168.8.133:6878/ace/getstream?id=e6eb125a5b314f84697e5f4ba3a937b272081850&.mp4
+#EXTINF:-1 group-title="informational" tvg-name="Москва-24" tvg-logo="Москва-24.png",Москва-24
+http://192.168.8.133:6878/ace/getstream?id=1bc39383ec59589802efe4ae4e610e8a014e1946&.mp4
+#EXTINF:-1 group-title="informational" tvg-name="Россия_24" tvg-logo="Россия 24.png",Россия 24
+http://192.168.8.133:6878/ace/getstream?id=4572f64d3ed7636a341a5446933bdb0d76a92232&.mp4
+#EXTINF:-1 group-title="informational" tvg-name="Russia_Today_Doc_(RU)" tvg-logo="Russia Today Doc (RU).png",Russia Today Doc (RU)
+http://192.168.8.133:6878/ace/getstream?id=55a9cbb699f623e11ab42c0df91839ed7dd923e7&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="Cartoon_network" tvg-logo="Cartoon network.png",Cartoon network
+http://192.168.8.133:6878/ace/getstream?id=c37b5c6625f7cd01976300ee000a5279e96afae6&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="JimJam" tvg-logo="JimJam.png",JimJam
+http://192.168.8.133:6878/ace/getstream?id=482304bd49a2258e33e7e78e5d865bd3b79ccff4&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="KIDS_HD" tvg-logo="KIDS HD.png",KIDS HD
+http://192.168.8.133:6878/ace/getstream?id=9c0d51967ec4ac831c72f947ae75a4fef56f38a1&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="Nick_Jr" tvg-logo="Nick Jr.png",Nick Jr
+http://192.168.8.133:6878/ace/getstream?id=de940c9bdf80b702bf627196c5593f4b84e6b33e&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="Nickelodeon_HD" tvg-logo="Nickelodeon HD.png",Nickelodeon HD
+http://192.168.8.133:6878/ace/getstream?id=031ef952db1903fee04541ac5090de308a8ba566&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="TiJi_Россия" tvg-logo="TiJi Россия.png",TiJi Россия
+http://192.168.8.133:6878/ace/getstream?id=02552d0b3029b592496f36d41574643157897e4d&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="В_гостях_у_сказки" tvg-logo="В гостях у сказки.png",В гостях у сказки
+http://192.168.8.133:6878/ace/getstream?id=7fc09845ec7a75283f22147697b5475f5da475b7&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="Детский" tvg-logo="Детский.png",Детский
+http://192.168.8.133:6878/ace/getstream?id=1bee546f61ddad853fee63745ae2ca4c97dac004&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="Канал_Disney" tvg-logo="Канал Disney.png",Канал Disney
+http://192.168.8.133:6878/ace/getstream?id=fc61ebd287c68dd88bb0acb8327d91817ccfb1de&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="Канал_О!" tvg-logo="Канал О!.png",Канал О!
+http://192.168.8.133:6878/ace/getstream?id=b1b6f07acc320eee3d8da54f282c59cd16b14d94&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="Карусель" tvg-logo="Карусель.png",Карусель
+http://192.168.8.133:6878/ace/getstream?id=4580840e267b62796891781241ea66a4c2ec9f30&.mp4
+#EXTINF:-1 group-title="kids" tvg-name="Тлум_HD" tvg-logo="Тлум HD.png",Тлум HD
+http://192.168.8.133:6878/ace/getstream?id=52dc5025e0ed31a6f75ebfaaaef45b87ccf3d4ed&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Bridge_HD" tvg-logo="Bridge HD.png",Bridge HD
+http://192.168.8.133:6878/ace/getstream?id=88e92f885eb068d713d3632acdfdd4ed1e797ba0&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Bridge_TV_Classic" tvg-logo="Bridge TV Classic.png",Bridge TV Classic
+http://192.168.8.133:6878/ace/getstream?id=d765b38101113fdf96a150e6c73b7e8d095a52c6&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Bridge_TV_Dance" tvg-logo="Bridge TV Dance.png",Bridge TV Dance
+http://192.168.8.133:6878/ace/getstream?id=63161f3a9b29a995f486abc06efeab97041e9dec&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Europa_Plus_TV" tvg-logo="Europa Plus TV.png",Europa Plus TV
+http://192.168.8.133:6878/ace/getstream?id=54254783e6f89ebd73bd824fc40118f6f2f016f1&.mp4
+#EXTINF:-1 group-title="music" tvg-name="MTV_Dance" tvg-logo="MTV Dance.png",MTV Dance
+http://192.168.8.133:6878/ace/getstream?id=4e60d6dd3d902a875d5170d2fc11deda289d018c&.mp4
+#EXTINF:-1 group-title="music" tvg-name="MTV_Rocks" tvg-logo="MTV Rocks.png",MTV Rocks
+http://192.168.8.133:6878/ace/getstream?id=64552581e436b397d9d479c4caac362339fef698&.mp4
+#EXTINF:-1 group-title="music" tvg-name="MTV_Россия" tvg-logo="MTV Россия.png",MTV Россия
+http://192.168.8.133:6878/ace/getstream?id=ba2c35201515d08c986fcf7b0c839e44247ccb36&.mp4
+#EXTINF:-1 group-title="music" tvg-name="RU.TV" tvg-logo="RU.TV.png",RU.TV
+http://192.168.8.133:6878/ace/getstream?id=0f18b8d8bebfca48009c498c5aa851e0832e85d2&.mp4
+#EXTINF:-1 group-title="music" tvg-name="VH1_Classic" tvg-logo="VH1 Classic.png",VH1 Classic
+http://192.168.8.133:6878/ace/getstream?id=185ee5f2e98278437e946fc09e26ecee75b446fd&.mp4
+#EXTINF:-1 group-title="music" tvg-name="VH1_Europe" tvg-logo="VH1 Europe.png",VH1 Europe
+http://192.168.8.133:6878/ace/getstream?id=8cb69525386533f81c042f9e02d254f01b71d00c&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Муз-ТВ" tvg-logo="Муз-ТВ.png",Муз-ТВ
+http://192.168.8.133:6878/ace/getstream?id=a8f79b03a063b021c645821488300a5367585d74&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Музыка_Первого" tvg-logo="Музыка Первого.png",Музыка Первого
+http://192.168.8.133:6878/ace/getstream?id=d462e00b50332f176f2f19b8f21ae83bda67922f&.mp4
+#EXTINF:-1 group-title="music" tvg-name="Шансон_ТВ" tvg-logo="Шансон ТВ.png",Шансон ТВ
+http://192.168.8.133:6878/ace/getstream?id=43fd43476b64eab93a69dbeb841821c9fcbbcd2b&.mp4
+#EXTINF:-1 group-title="music" tvg-name="HIT_(Орск)" tvg-logo="HIT (Орск).png",HIT (Орск)
+http://192.168.8.133:6878/ace/getstream?id=6258416dbb334751cb7c8c050022bb5c239d1240&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Eurosport_2_HD" tvg-logo="Eurosport 2 HD.png",Eurosport 2 HD
+http://192.168.8.133:6878/ace/getstream?id=30a49eef2476820106c8292374838d03a72f2307&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Eurosport_HD" tvg-logo="Eurosport HD.png",Eurosport HD
+http://192.168.8.133:6878/ace/getstream?id=5e9f075c9f6703b4dd355f649c424d715570e51b&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Extreme_Sports" tvg-logo="Extreme Sports.png",Extreme Sports
+http://192.168.8.133:6878/ace/getstream?id=3ae4ac520a9a212ea1d9e4abf7a0c6be4fbfda4b&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Kazsport" tvg-logo="Kazsport.png",Kazsport
+http://192.168.8.133:6878/ace/getstream?id=b99222570084f62887dd5744d4aa03ce79f5a035&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Viasat_Sport_HD_Россия" tvg-logo="Viasat Sport HD Россия.png",Viasat Sport HD Россия
+http://192.168.8.133:6878/ace/getstream?id=e95e00dd1127c22d4ac7e7c1f745711ea879c61d&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Бокс_ТВ" tvg-logo="Бокс ТВ.png",Бокс ТВ
+http://192.168.8.133:6878/ace/getstream?id=2ee8cc6d23f5ea4013385343e42d037233e7ad6d&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="КХЛ_HD" tvg-logo="КХЛ HD.png",КХЛ HD
+http://192.168.8.133:6878/ace/getstream?id=18699df05bd2b99c37b2d827a6206a04b0b9c891&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="КХЛ_ТВ" tvg-logo="КХЛ ТВ.png",КХЛ ТВ
+http://192.168.8.133:6878/ace/getstream?id=c3db6d15f1864b585179adb100ddbcdfa61896c3&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч_ТВ_HD" tvg-logo="Матч ТВ HD.png",Матч ТВ HD
+http://192.168.8.133:6878/ace/getstream?id=781f1e0f92475b086b3988bf45da9fbf88de3e63&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч!_Арена_HD" tvg-logo="Матч! Арена HD.png",Матч! Арена HD
+http://192.168.8.133:6878/ace/getstream?id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч!_Боец" tvg-logo="Матч! Боец.png",Матч! Боец
+http://192.168.8.133:6878/ace/getstream?id=e0b837bec8581ef40011401fec2c2c7717c7fba5&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч!_Игра_HD" tvg-logo="Матч! Игра HD.png",Матч! Игра HD
+http://192.168.8.133:6878/ace/getstream?id=62ef7e82275b9f50a51b6dd19123e460f68e678a&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч!_Наш_спорт" tvg-logo="Матч! Наш спорт.png",Матч! Наш спорт
+http://192.168.8.133:6878/ace/getstream?id=501018635ad5a212639acc8f1857120390b0e699&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч!_Футбол_1_HD" tvg-logo="Матч! Футбол 1 HD.png",Матч! Футбол 1 HD
+http://192.168.8.133:6878/ace/getstream?id=92550ac34357a69bf6c734145fa359197d62fec0&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч!_Футбол_2_HD" tvg-logo="Матч! Футбол 2 HD.png",Матч! Футбол 2 HD
+http://192.168.8.133:6878/ace/getstream?id=153e4a4098ada1e6150a5e62cdd58db806fddada&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч!_Футбол_3_HD" tvg-logo="Матч! Футбол 3 HD.png",Матч! Футбол 3 HD
+http://192.168.8.133:6878/ace/getstream?id=70b20efc8b27aa84025b7fe5752dea186429b08c&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Морской" tvg-logo="Морской.png",Морской
+http://192.168.8.133:6878/ace/getstream?id=9bb9e82adb00d4f39d317cc520a91572ead8a5e5&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="НТВ+_Наш_футбол_HD" tvg-logo="НТВ+ Наш футбол HD.png",НТВ+ Наш футбол HD
+http://192.168.8.133:6878/ace/getstream?id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Сетанта_Спорт_+_HD" tvg-logo="Сетанта Спорт + HD.png",Сетанта Спорт + HD
+http://192.168.8.133:6878/ace/getstream?id=748e65f5e9652a1c014dca2ad489957e1ba08b3c&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Сетанта_Спорт_HD" tvg-logo="Сетанта Спорт HD.png",Сетанта Спорт HD
+http://192.168.8.133:6878/ace/getstream?id=b919b8b349c177783f63c4ed0e6ee72848c5bb59&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Brazzers_TV" tvg-logo="Brazzers TV.png",Brazzers TV
+http://192.168.8.133:6878/ace/getstream?id=d035036a8c34608bafbe25d97eeccfa53ad0035b&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Candy_HD" tvg-logo="Candy HD.png",Candy HD
+http://192.168.8.133:6878/ace/getstream?id=9f4c1e88e5d4298f391b8b5314466406b49970ac&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Dorcel_HD" tvg-logo="Dorcel HD.png",Dorcel HD
+http://192.168.8.133:6878/ace/getstream?id=07ed9d5adcb40560751d6e7d53b36f157f6e2041&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Hustler_HD_Europe" tvg-logo="Hustler HD Europe.png",Hustler HD Europe
+http://192.168.8.133:6878/ace/getstream?id=512d21052629e67dbfc6b71306393a24792ccd80&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Nuart" tvg-logo="Nuart.png",Nuart
+http://192.168.8.133:6878/ace/getstream?id=c3e3101ff8349b283f87e086c53936ffe6eb0b79&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Playboy_TV" tvg-logo="Playboy TV.png",Playboy TV
+http://192.168.8.133:6878/ace/getstream?id=793b56ae85af194bd8661f5a17bcfac28eba4453&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Redlight_HD" tvg-logo="Redlight HD.png",Redlight HD
+http://192.168.8.133:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Русская_ночь" tvg-logo="Русская ночь.png",Русская ночь
+http://192.168.8.133:6878/ace/getstream?id=e0ac064551375530f1a3bd5ba2870235a561e9eb&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_-_Latina" tvg-logo="RedTraffic - Latina.png",RedTraffic - Latina
+http://192.168.8.133:6878/ace/getstream?id=db952b18d42c689cba6c9ced7045dd4a2056c492&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Big_Ass_HD_(18+)" tvg-logo="RedTraffic Big Ass HD (18+).png",RedTraffic Big Ass HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=c97bb699027ff43f9227a48556029134fe08227b&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Big_Dick_HD_(18+)" tvg-logo="RedTraffic Big Dick HD (18+).png",RedTraffic Big Dick HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=f90d98b3afc6639da99a3bf20c45c5a0e0d5b8b4&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Big_Tits_HD_(18+)" tvg-logo="RedTraffic Big Tits HD (18+).png",RedTraffic Big Tits HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=e3b31228c79d8cbfd6c67c21b859de8c405d61fd&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Blowjob_HD_(18+)" tvg-logo="RedTraffic Blowjob HD (18+).png",RedTraffic Blowjob HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=f3089057e7c8fd48c854c3bb10f94ed6d240139d&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Cuckold_HD_(18+)" tvg-logo="RedTraffic Cuckold HD (18+).png",RedTraffic Cuckold HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=8ec16c2aedfd024743a333a50d43a5bf5e1ef92a&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Fetish_HD_(18+)" tvg-logo="RedTraffic Fetish HD (18+).png",RedTraffic Fetish HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=20a6d2b051520515aa8714d4e329bfae4a2622d0&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Hardcore_HD_(18+)" tvg-logo="RedTraffic Hardcore HD (18+).png",RedTraffic Hardcore HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=28ad1d1b02e4e3eaad8464f07a0eb26e428c7ae6&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Interracial_HD_(18+)" tvg-logo="RedTraffic Interracial HD (18+).png",RedTraffic Interracial HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=95a3b20e095303613805e40bf8b313df9a9786e5&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Latina_HD_(18+)" tvg-logo="RedTraffic Latina HD (18+).png",RedTraffic Latina HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=50822e316fd25efde247dfc605ec9ad5e0bbb966&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Lesbian_HD_(18+)" tvg-logo="RedTraffic Lesbian HD (18+).png",RedTraffic Lesbian HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=159939d08b35d1ede36614641239558d32bb569d&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_MILF_HD_(18+)" tvg-logo="RedTraffic MILF HD (18+).png",RedTraffic MILF HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=661a6779922a6c450a33fd773697624afdf4e95e&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_POV_HD_(18+)" tvg-logo="RedTraffic POV HD (18+).png",RedTraffic POV HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=57db82f917ec8a092e866d5f2189edb443ebfd5e&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Pornstar_HD_(18+)" tvg-logo="RedTraffic Pornstar HD (18+).png",RedTraffic Pornstar HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=1540a7906b0c4c0f24bb908878f429f1e189029e&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Russian_HD_(18+)" tvg-logo="RedTraffic Russian HD (18+).png",RedTraffic Russian HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=57cc3c2817c280a751365a2625af1d3a1eced772&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Teen_HD_(18+)" tvg-logo="RedTraffic Teen HD (18+).png",RedTraffic Teen HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=39ef7015717cd8ac43804dd231c9b7daeb2d2518&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="RedTraffic_Threesome_HD_(18+)" tvg-logo="RedTraffic Threesome HD (18+).png",RedTraffic Threesome HD (18+)
+http://192.168.8.133:6878/ace/getstream?id=39bcb4eb02f45b23c5227391774ae103282e5ee9&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="AST_TV_1" tvg-logo="AST TV 1.png",AST TV 1
+http://192.168.8.133:6878/ace/getstream?id=f0fead346d2bcbaab141f1eace494b654ab208eb&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="AST.tv_1_HD" tvg-logo="AST.tv 1 HD.png",AST.tv 1 HD
+http://192.168.8.133:6878/ace/getstream?id=f0fead346d2bcbaab141f1eace494b654ab208eb&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Beautiful_Blonde" tvg-logo="Beautiful Blonde.png",Beautiful Blonde
+http://192.168.8.133:6878/ace/getstream?id=92abe662b183c1dd88a895109454c27b4ad151bf&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Brunette_Lesbians_Dyke_Out" tvg-logo="Brunette Lesbians Dyke Out.png",Brunette Lesbians Dyke Out
+http://192.168.8.133:6878/ace/getstream?id=62790e6eccc26f02def2fc5ae45d8c1ec05e8da3&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="HUSTLER_TV" tvg-logo="HUSTLER TV.png",HUSTLER TV
+http://192.168.8.133:6878/ace/getstream?id=9b13a922b7465fafdb1c0ce5b6edf46df721dee3&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="Redlight_HD" tvg-logo="Redlight HD.png",Redlight HD
+http://192.168.8.133:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.mp4
+#EXTINF:-1 group-title="18+" tvg-name="НЮ_АРТ" tvg-logo="НЮ АРТ.png",НЮ АРТ
+http://192.168.8.133:6878/ace/getstream?id=c3e3101ff8349b283f87e086c53936ffe6eb0b79&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Akudji_HD" tvg-logo="Akudji HD.png",Akudji HD
+http://192.168.8.133:6878/ace/getstream?id=7073bc37f161cbdedef3ee6f5fceca8736d59540&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Belros" tvg-logo="Belros.png",Belros
+http://192.168.8.133:6878/ace/getstream?id=c971b407a28f117ba579b8d0dda2f84e6ce8e36e&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Hope_TV" tvg-logo="Hope TV.png",Hope TV
+http://192.168.8.133:6878/ace/getstream?id=45b873e27e7443baf7dd052cbba950cec449b90f&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Impact_TV" tvg-logo="Impact TV.png",Impact TV
+http://192.168.8.133:6878/ace/getstream?id=b94a4eaa348f4431beaa27a744a479cc95caa01d&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="K1" tvg-logo="K1.png",K1
+http://192.168.8.133:6878/ace/getstream?id=52a9907dae1e5d37d3ef80537406c96879af05f9&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="MTVmix_(Уфа)" tvg-logo="MTVmix (Уфа).png",MTVmix (Уфа)
+http://192.168.8.133:6878/ace/getstream?id=7e22c1f596d7f05ac395b981204709bf1edc1f78&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="АТВ_(Ставрополь)" tvg-logo="АТВ (Ставрополь).png",АТВ (Ставрополь)
+http://192.168.8.133:6878/ace/getstream?id=0e952bddf72ffcb2ed35dbd5eabd4e1bdcecc01e&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Громадське" tvg-logo="Громадське.png",Громадське
+http://192.168.8.133:6878/ace/getstream?id=6f2d6d8c19ab264bec4ec8b0e246177365e06942&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="ЛДПР_ТВ" tvg-logo="ЛДПР ТВ.png",ЛДПР ТВ
+http://192.168.8.133:6878/ace/getstream?id=74ee901504f02fea0139b63858544912fc2c9d19&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="МузСоюз" tvg-logo="МузСоюз.png",МузСоюз
+http://192.168.8.133:6878/ace/getstream?id=13c225b1076097746dec054d45928e9f0241acb4&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Общественное_Независимое_Телевидение" tvg-logo="Общественное Независимое Телевидение.png",Общественное Независимое Телевидение
+http://192.168.8.133:6878/ace/getstream?id=8c4cca378bc34223b12d565b2ad4a9c65b4dd64a&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Первый_Городской_(Одесса)" tvg-logo="Первый Городской (Одесса).png",Первый Городской (Одесса)
+http://192.168.8.133:6878/ace/getstream?id=8ea97c852147cb3c310dbf491ac2e3041a5e40d2&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Первый_городской_(Кривой_Рог)" tvg-logo="Первый городской (Кривой Рог).png",Первый городской (Кривой Рог)
+http://192.168.8.133:6878/ace/getstream?id=48145b62dafefa18b2f55d0c1cb44a9cd35a87e2&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Радио_ХИТ_(Орск)" tvg-logo="Радио ХИТ (Орск).png",Радио ХИТ (Орск)
+http://192.168.8.133:6878/ace/getstream?id=d967a0aa2e0bcd8d88d4b7a611dbc8e946a2a0f4&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Репортер" tvg-logo="Репортер.png",Репортер
+http://192.168.8.133:6878/ace/getstream?id=5ddef9ede9702b211d22846e366bdcdc1531068d&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Россия_1_(Калуга)" tvg-logo="Россия 1 (Калуга).png",Россия 1 (Калуга)
+http://192.168.8.133:6878/ace/getstream?id=7909aa4c9c4605e89fee8f9693677a92d6baa76a&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Север_(Ненецкий_автономный_округ)" tvg-logo="Север (Ненецкий автономный округ).png",Север (Ненецкий автономный округ)
+http://192.168.8.133:6878/ace/getstream?id=42127daa79a3c593231f97b8fdd815624c79d986&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="ТРК_Губерния_33_(Владимир)" tvg-logo="ТРК Губерния 33 (Владимир).png",ТРК Губерния 33 (Владимир)
+http://192.168.8.133:6878/ace/getstream?id=3573e3fffbe66a1ffba880baf2fe925531248e30&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="ТРК_Чернівці" tvg-logo="ТРК Чернівці.png",ТРК Чернівці
+http://192.168.8.133:6878/ace/getstream?id=37d7bfb6ffab53ddc0a506bfe54119aae6bdfee2&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Тольятти_24" tvg-logo="Тольятти 24.png",Тольятти 24
+http://192.168.8.133:6878/ace/getstream?id=151efc861531dd3a204f1f66ecfbf5dc40e1b30d&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="ЧП.iнфо" tvg-logo="ЧП.iнфо.png",ЧП.iнфо
+http://192.168.8.133:6878/ace/getstream?id=30dc140a4fae6ac7829345ef230ab2c5b26f17a4&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Щелковское_ТВ" tvg-logo="Щелковское ТВ.png",Щелковское ТВ
+http://192.168.8.133:6878/ace/getstream?id=45ff83e7faa159b09829d5264db620104263895c&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="ЮТВ_(Чебоксары)" tvg-logo="ЮТВ (Чебоксары).png",ЮТВ (Чебоксары)
+http://192.168.8.133:6878/ace/getstream?id=00072d2ce865de36a89940604ad01d196005bab8&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Южная_Волна_HD" tvg-logo="Южная Волна HD.png",Южная Волна HD
+http://192.168.8.133:6878/ace/getstream?id=4aa80e8d8be2371d7d690ae936564dc608ec7afb&.mp4
+#EXTINF:-1 group-title=kiti" tvg-name="Cinemax" tvg-logo="Cinemax.png",Cinemax
+http://192.168.8.133:6878/ace/getstream?id=180e117e3f88bf4d6c06d3ff0d213e16963dfc50&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Persiana_2_CINEMA" tvg-logo="Persiana 2 CINEMA.png",Persiana 2 CINEMA
+http://192.168.8.133:6878/ace/getstream?id=ccb804b4a4464430e888409f5c374a89edbb31fa&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Public_TV_of_Armenia" tvg-logo="Public TV of Armenia.png",Public TV of Armenia
+http://192.168.8.133:6878/ace/getstream?id=e4c8bc7696e9b5166ca17579cbed85878c35b75b&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="RAI_2" tvg-logo="RAI 2.png",RAI 2
+http://192.168.8.133:6878/ace/getstream?id=71b5160d4489a44c17c52f0f3bcfb5d86cf59272&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="RT" tvg-logo="RT.png",RT
+http://192.168.8.133:6878/ace/getstream?id=57d6259a2546bfefd1fd664edfbce1e5713ce652&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="RTL" tvg-logo="RTL.png",RTL
+http://192.168.8.133:6878/ace/getstream?id=47ff7a54b54713a891e3a3fcc8e0a94c399945fd&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="TV1000" tvg-logo="TV1000.png",TV1000
+http://192.168.8.133:6878/ace/getstream?id=b738710f8d6e6b11b4a9cb4a18e4d5641201134d&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="TV1000_East" tvg-logo="TV1000 East.png",TV1000 East
+http://192.168.8.133:6878/ace/getstream?id=1c6ef905c025dd41d420ac7ac41f46c9b9145600&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="ІНФО" tvg-logo="ІНФО.png",ІНФО
+http://192.168.8.133:6878/ace/getstream?id=6e09744e328f3585229488d878e4a5fe71b0f60d&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Бобер_ТВ" tvg-logo="Бобер ТВ.png",Бобер ТВ
+http://192.168.8.133:6878/ace/getstream?id=37a8d364a589ea99618a07df8d482b621a774cbb&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="Кавказ_24" tvg-logo="Кавказ 24.png",Кавказ 24
+http://192.168.8.133:6878/ace/getstream?id=fd2bdfc1d24ffe391cd5ee399c0aff00e5a7a572&.mp4
+#EXTINF:-1 group-title="kiti" tvg-name="7_TV" tvg-logo="7 TV.png",7 TV
+http://192.168.8.133:6878/ace/getstream?id=a7992692e2b00dd16a477de5886dd76601111fdb&.mp4
+
+
